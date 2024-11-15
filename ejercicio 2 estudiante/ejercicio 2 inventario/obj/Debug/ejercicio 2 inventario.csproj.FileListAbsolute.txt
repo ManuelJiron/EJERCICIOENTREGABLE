@@ -1,0 +1,11 @@
+C:\Users\Isaac Mora\source\repos\ejercicio 2 inventario\ejercicio 2 inventario\bin\Debug\ejercicio 2 inventario.exe.config
+C:\Users\Isaac Mora\source\repos\ejercicio 2 inventario\ejercicio 2 inventario\bin\Debug\ejercicio 2 inventario.exe
+C:\Users\Isaac Mora\source\repos\ejercicio 2 inventario\ejercicio 2 inventario\bin\Debug\ejercicio 2 inventario.pdb
+C:\Users\Isaac Mora\source\repos\ejercicio 2 inventario\ejercicio 2 inventario\obj\Debug\ejercicio 2 inventario.csproj.AssemblyReference.cache
+C:\Users\Isaac Mora\source\repos\ejercicio 2 inventario\ejercicio 2 inventario\obj\Debug\ejercicio_2_inventario.Estudiante.resources
+C:\Users\Isaac Mora\source\repos\ejercicio 2 inventario\ejercicio 2 inventario\obj\Debug\ejercicio_2_inventario.Form2.resources
+C:\Users\Isaac Mora\source\repos\ejercicio 2 inventario\ejercicio 2 inventario\obj\Debug\ejercicio_2_inventario.Properties.Resources.resources
+C:\Users\Isaac Mora\source\repos\ejercicio 2 inventario\ejercicio 2 inventario\obj\Debug\ejercicio 2 inventario.csproj.GenerateResource.cache
+C:\Users\Isaac Mora\source\repos\ejercicio 2 inventario\ejercicio 2 inventario\obj\Debug\ejercicio 2 inventario.csproj.CoreCompileInputs.cache
+C:\Users\Isaac Mora\source\repos\ejercicio 2 inventario\ejercicio 2 inventario\obj\Debug\ejercicio 2 inventario.exe
+C:\Users\Isaac Mora\source\repos\ejercicio 2 inventario\ejercicio 2 inventario\obj\Debug\ejercicio 2 inventario.pdb
